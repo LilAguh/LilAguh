@@ -1,4 +1,4 @@
-### Hello World! i'm Aguh
+<h2> Hello World! i'm Aguh </h2>
 
 <img align="top" src="https://raw.githubusercontent.com/LilAguh/LilAguh/main/dino.gif" alt="LilAguh" />
 
