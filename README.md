@@ -1,5 +1,4 @@
-<h1>Aguh Ochoa</h1>
-<h2>FRONTEND DEVELOPER</h2>
+### Hello World! i'm Aguh
 
 <img align="top" src="https://raw.githubusercontent.com/LilAguh/LilAguh/main/dino.gif" alt="LilAguh" />
 
