@@ -1,5 +1,4 @@
-<h2> Hello World! i'm Aguh </h2>
-<h3>⭐⭐⭐</h3>
+<h2> Hello World! i'm Aguh <br/> ⭐⭐⭐</h2>
 
 <img align="top" src="https://raw.githubusercontent.com/LilAguh/LilAguh/main/dino.gif" alt="LilAguh" />
 
