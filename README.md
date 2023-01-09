@@ -5,3 +5,4 @@
 </div>
 <p align="left">Hi, I'm Agustin Ochoa, Aguh, mern fullstack developer.
  Graduated from the Mindhub bootcamp in 2022, I like the frontend and the design, wanting to specialize in mobile applications.</p>
+<img src="https://giphy.com/embed/XbQesBg4di7St1NbqY" />
