@@ -5,5 +5,5 @@
 </div>
 <p align="left">Hi, I'm Agustin Ochoa, Aguh, mern fullstack developer.
  Graduated from the Mindhub bootcamp in 2022, I like the frontend and the design, wanting to specialize in mobile applications.</p>
-<img src="https://giphy.com/gifs/workhard-frenchbulldog-metalfrenchie-XbQesBg4di7St1NbqY" />
+<img src="https://media0.giphy.com/media/XbQesBg4di7St1NbqY/giphy.gif" />
 <iframe src="https://giphy.com/embed/XbQesBg4di7St1NbqY" width="480" height="458" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/workhard-frenchbulldog-metalfrenchie-XbQesBg4di7St1NbqY">via GIPHY</a></p>
