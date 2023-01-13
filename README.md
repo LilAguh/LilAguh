@@ -19,7 +19,7 @@
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" style="border-radius:50px;" src="https://media4.giphy.com/media/XbQesBg4di7St1NbqY/200w.gif?cid=6c09b952ad9g957dmrgyn7ea1mtfu4byco4a5dkt2d7gfqc1&rid=200w.gif&ct=g">
+  
 </div>
   
   ##
