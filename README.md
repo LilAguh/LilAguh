@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilAguh&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 <h3 align="left">Hi, I'm Agustin Ochoa, Aguh, mern fullstack developer.
- Graduated from the Mindhub bootcamp in 2022, I like the frontend and the design, wanting to specialize in mobile applications.</h3>
+ Graduated from the <a href="https://mindhubweb.com/" target="_blank"> Mindhub</a> bootcamp in 2022, I like the frontend and the design, wanting to specialize in mobile applications.</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
